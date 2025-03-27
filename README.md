@@ -133,7 +133,8 @@ equal voltages even if they are not pre-charged to Vdd.
 
    + **Bias transistors** that pull each of the bit lines to Vdd.
 
-![image22](https://github.com/user-attachments/assets/2f60a209-25f7-4259-b39f-975cfce3f9a2)
+![precharge_ckt](https://github.com/user-attachments/assets/c5616cb5-7870-4431-87d2-f5dad55184af)
+
 
 
 ---------
