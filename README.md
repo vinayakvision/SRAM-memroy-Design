@@ -6,7 +6,7 @@
 ## Design of 4X4 16-bit SRAM Memory Array Using Cadence tool-chain
 ## About
 
-Student at Department of Electronics and Communication Engineering in Vidyavardhaka college of engineering in the 6th semester for the course "Memory Design and Testing" (Course Code: UE20EC343) during the academic year 2025-26 The project involves the design of a 4X4 SRAM Memory Array using Cadence Virtuoso built using GPDK 45nm
+Student at Department of Electronics and Communication Engineering in Vidyavardhaka college of engineering in the 6th semester during the academic year 2025-26 The project involves the design of a Low-Power 128-Byte Cache using 4X4 16-bit 6T SRAM Memory Array using Cadence Virtuoso built using GPDK 45nm.
 
 
 ## Table of Contents
